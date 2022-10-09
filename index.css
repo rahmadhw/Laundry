@@ -1,0 +1,27 @@
+#social_side_links {
+  position: fixed;
+  top: 340px;
+  left: 0;
+  padding: 0;
+  list-style: none;
+  z-index: 99;
+}
+
+#social_side_links li a {
+  display: block;
+  padding: 5px 5px 5px 5px;
+}
+
+
+.modal-header,
+h4,
+.close {
+  background-color: #5cb85c;
+  color: white !important;
+  text-align: center;
+  font-size: 30px;
+}
+
+.modal-footer {
+  background-color: #f9f9f9;
+}
